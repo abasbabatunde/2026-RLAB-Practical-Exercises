@@ -15,6 +15,7 @@ execute:
 This Quarto document will be used to practice my first GitHub pull request.
 
 
+
 ```{r}
 # Hello R-LAB
 message("My first GitHub push worked!")
