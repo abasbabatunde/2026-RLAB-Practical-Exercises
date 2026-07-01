@@ -17,10 +17,10 @@ This Quarto document will be used to practice my first GitHub pull request.
 ## Hello R-LAB
 
 ```{r}
-
+library(dplyr)
 message("My first GitHub push worked!")
 x <- 1:10
-mean(x)library(dplyr)
+mean(x)
 
 
 ```
